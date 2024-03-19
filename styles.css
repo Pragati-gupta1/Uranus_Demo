@@ -138,6 +138,10 @@ nav {
   right: 0;
   z-index: 1;
 }
+nav-hover:hover{
+  color:blue;
+}
+
 
 .read-more {
   cursor: pointer;
